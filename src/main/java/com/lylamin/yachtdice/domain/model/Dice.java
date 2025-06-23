@@ -1,4 +1,4 @@
-package com.lylamin.yachtdice;
+package com.lylamin.yachtdice.domain.model;
 
 /**
  * Dice
